@@ -17,4 +17,5 @@ Descriptions of data sets should also be archived on eScholarship: https://escho
   - the riem R package: https://docs.ropensci.org/riem/
  
 - Santa Barbara County weather data:
-  - https://rain.cosbpw.net/     
+  - https://rain.cosbpw.net/
+  - Link to excel files of daily rainfall for specific stations: https://www.countyofsb.org/2328/Daily-Rainfall-Data-XLS  
