@@ -9,3 +9,12 @@ Spatial data are generally also on ArcGIS Online:
 
 ## eScholarship
 Descriptions of data sets should also be archived on eScholarship: https://escholarship.org/uc/ccber
+
+## Weather data
+
+- Santa Barbara Airport (SBA) automated weather station data can be accessed via:
+  - this website: https://mesonet.agron.iastate.edu/request/download.phtml?network=CA_ASOS
+  - the riem R package: https://docs.ropensci.org/riem/
+ 
+- Santa Barbara County weather data:
+  - https://rain.cosbpw.net/     
