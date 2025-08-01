@@ -6,6 +6,11 @@ Spatial data are generally also on ArcGIS Online:
 
   - See information from the UCSB Library about accessing ArcGIS Online: https://www.library.ucsb.edu/dreamlab/spatial/arcgis-online
   - CCBER's ArcGIS Online https://ucsb.maps.arcgis.com/home/group.html?id=5196673ce5ea4d68882435ddc2f8ae3f#overview
+  - See documentation for tools to integrate ArcGIS data into R workflows: https://developers.arcgis.com/r-bridge/
+
+## Box
+
+- For continually-updated stored on Box, consider using the boxr package: https://r-box.github.io/boxr/
 
 ## eScholarship
 Descriptions of data sets should also be archived on eScholarship: https://escholarship.org/uc/ccber
