@@ -12,8 +12,9 @@ Spatial data are generally also on ArcGIS Online:
 
 - For continually-updated stored on Box, consider using the boxr package: https://r-box.github.io/boxr/
 
-## Campus Lagooo Plant List
+## Campus Lagoon Plant List
 
+-  Last updated in 2018, use as starter list for overall plant list for all areas managed by the Cheadle Center.
 -  See https://docs.google.com/spreadsheets/d/1Ohz8c5m1lBqxH9XWiNraP3bbalaCag7DjCJmezXetsI/edit?gid=604560383#gid=604560383
 
 ## eScholarship
