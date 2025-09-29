@@ -12,6 +12,10 @@ Spatial data are generally also on ArcGIS Online:
 
 - For continually-updated stored on Box, consider using the boxr package: https://r-box.github.io/boxr/
 
+## Campus Lagooo Plant List
+
+-  See https://docs.google.com/spreadsheets/d/1Ohz8c5m1lBqxH9XWiNraP3bbalaCag7DjCJmezXetsI/edit?gid=604560383#gid=604560383
+
 ## eScholarship
 Descriptions of data sets should also be archived on eScholarship: https://escholarship.org/uc/ccber
 
