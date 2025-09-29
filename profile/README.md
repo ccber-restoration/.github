@@ -10,7 +10,7 @@ Spatial data are generally also on ArcGIS Online:
 
 ## Box
 
-- For continually-updated stored on Box, consider using the boxr package: https://r-box.github.io/boxr/
+- For accessing continually-updated data stored on Box, consider using the boxr package: https://r-box.github.io/boxr/
 
 ## Campus Lagoon Plant List
 
