@@ -1,5 +1,5 @@
 ## About
-Repositories for research using data from the Cheadle Center's Ecological Restoration & Management Program, including the Restoration and Monitoring Mentorship Program (RAMMP).
+Repositories for research using data from the UCSB Cheadle Center's Ecological Restoration & Management Program, including the Restoration and Monitoring Mentorship Program (RAMMP).
 
 ## Spatial data 
 Spatial data are generally also on ArcGIS Online: 
