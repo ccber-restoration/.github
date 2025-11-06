@@ -18,7 +18,8 @@ Spatial data are generally also on ArcGIS Online:
 -  See https://docs.google.com/spreadsheets/d/1Ohz8c5m1lBqxH9XWiNraP3bbalaCag7DjCJmezXetsI/edit?gid=604560383#gid=604560383
 
 ## Hydrology/water data
-
+-  We have YSI readings (collected weekly via ArcGIS Survey123) on ArcGIS Online.
+-  We have water level data (collected at 15 minute intervals) that is stored on Box. It requires some preprocessing.
 -  COPR created a Devereux Slough Water Quality Explorer shiny app, which allows both custom visualizations and data downloads for data manually collected by COPR interns at four sites between the slough mouth and Venoco bridge. App is here: https://019a366b-24b1-1b2b-5d87-a4dcf12a2d5f.share.connect.posit.cloud/ And GitHub repository is here: https://github.com/michellemoreno18/devereux-water-data/tree/main
 
 ## eScholarship
