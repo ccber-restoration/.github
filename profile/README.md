@@ -16,6 +16,10 @@ Spatial data are generally also on ArcGIS Online:
 
 -  Last updated in 2018, use as starter list for overall plant list for all areas managed by the Cheadle Center.
 -  See https://docs.google.com/spreadsheets/d/1Ohz8c5m1lBqxH9XWiNraP3bbalaCag7DjCJmezXetsI/edit?gid=604560383#gid=604560383
+-  See also:
+  - Calflora https://www.calflora.org/search.html
+  - Jepson eFlora https://ucjeps.berkeley.edu/eflora/
+  
 
 ## Hydrology/water data
 -  We have YSI readings (collected weekly via ArcGIS Survey123) on ArcGIS Online.
