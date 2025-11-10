@@ -1,6 +1,8 @@
 ## About
 Repositories for research using data from the UCSB Cheadle Center's Ecological Restoration & Management Program, including the Restoration and Monitoring Mentorship Program (RAMMP).
 
+This GitHub organization is intended to be set up to facilitate reproducible and collaborative research, following the principles of this great resource: https://ucsb-library-research-data-services.github.io/reproducible-lab/
+
 ## Spatial data 
 Spatial data are generally also on ArcGIS Online: 
 
