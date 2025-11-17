@@ -16,6 +16,13 @@ Spatial data are generally also on ArcGIS Online:
 
 - For accessing continually-updated data stored on Box, consider using the boxr package: https://r-box.github.io/boxr/
 
+- To access files on Box, first follow these instructions to set up a "Box Interactive Map":
+    -  https://r-box.github.io/boxr/articles/boxr-app-interactive.html#create 
+    -  https://developer.box.com/guides/authentication/oauth2/oauth2-setup/
+    -  Make sure to set the Redirect URI to http://localhost:1410/
+-  Files and directories can be identified using file_id and dir_id, respectively, rather than filepaths.
+-  Use variants of box_read() to load files on Box (e.g. csv or xlsx files) into memory: https://r-box.github.io/boxr/reference/box_read.html    
+
 ## Campus Lagoon Plant List
 
 -  Last updated in 2018, use as starter list for overall plant list for all areas managed by the Cheadle Center.
