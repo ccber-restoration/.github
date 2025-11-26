@@ -7,7 +7,7 @@ This GitHub organization is intended to facilitate reproducible and collaborativ
 ## Setup instructions: 
 If you are new to GitHub and need to connect RStudio and GitHub, follow steps 1, 2, and 4-7 in these excellent instructions from the Bren School Master of Environmental Data Science (MEDS) program: https://ucsb-meds.github.io/MEDS-installation-guide/#install
 
-Then, follow step 16 (specifically 16.2.2) from this tutorial: https://happygitwithr.com/existing-github-first 
+Then, follow step 16 (specifically 16.2.2) from this tutorial to connect a specific existing repository to RStudio: https://happygitwithr.com/existing-github-first 
 
 **Repository template**: Please use the template repository when creating new repositories: https://github.com/ccber-restoration/repo-template. See instructions here: https://ucsb-library-research-data-services.github.io/reproducible-lab/github_template.html
 
