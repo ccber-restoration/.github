@@ -30,22 +30,10 @@ Spatial data are generally also on ArcGIS Online:
 -  Files and directories can be identified using file_id and dir_id, respectively, rather than filepaths.
 -  Use variants of box_read() to load files on Box (e.g. csv or xlsx files) into memory: https://r-box.github.io/boxr/reference/box_read.html    
 
-## Campus Lagoon Plant List
-
--  Last updated in 2018, use as starter list for overall plant list for all areas managed by the Cheadle Center.
--  See https://docs.google.com/spreadsheets/d/1Ohz8c5m1lBqxH9XWiNraP3bbalaCag7DjCJmezXetsI/edit?gid=604560383#gid=604560383
--  See also:
-    - Calflora https://www.calflora.org/search.html
-    - Jepson eFlora https://ucjeps.berkeley.edu/eflora/
-  
-
-## Hydrology/water data
--  We have YSI readings (collected weekly via ArcGIS Survey123) on ArcGIS Online.
--  We have water level data (collected at 15 minute intervals) that is stored on Box. It requires some preprocessing.
--  COPR created a Devereux Slough Water Quality Explorer shiny app, which allows both custom visualizations and data downloads for data manually collected by COPR interns at four sites between the slough mouth and Venoco bridge. App is here: https://019a366b-24b1-1b2b-5d87-a4dcf12a2d5f.share.connect.posit.cloud/ And GitHub repository is here: https://github.com/michellemoreno18/devereux-water-data/tree/main
-
 ## eScholarship
 Descriptions of data sets should also be archived on eScholarship: https://escholarship.org/uc/ccber
+
+# Data sets potentially used for many projects
 
 ## Weather data
 
@@ -56,3 +44,25 @@ Descriptions of data sets should also be archived on eScholarship: https://escho
 - Santa Barbara County weather data:
   - https://rain.cosbpw.net/
   - Link to excel files of daily rainfall for specific stations: https://www.countyofsb.org/2328/Daily-Rainfall-Data-XLS  
+
+## Hydrology/water data
+-  We have YSI readings (collected weekly via ArcGIS Survey123) on ArcGIS Online.
+-  We have water level data (collected at 15 minute intervals) that is stored on Box. It requires some preprocessing.
+-  COPR created a Devereux Slough Water Quality Explorer shiny app, which allows both custom visualizations and data downloads for data manually collected by COPR interns at four sites between the slough mouth and Venoco bridge. App is here: https://019a366b-24b1-1b2b-5d87-a4dcf12a2d5f.share.connect.posit.cloud/ And GitHub repository is here: https://github.com/michellemoreno18/devereux-water-data/tree/main
+
+## Campus Lagoon Plant List
+-  Last updated in 2018, use as starter list for overall plant list for all areas managed by the Cheadle Center.
+-  See https://docs.google.com/spreadsheets/d/1Ohz8c5m1lBqxH9XWiNraP3bbalaCag7DjCJmezXetsI/edit?gid=604560383#gid=604560383
+
+## Species nomenclature
+Try to use standardized species names (and/or codes) in Cheadle Center data sets. Some sources of authoritative/up-to-date species names:
+
+-  **Plants**:  
+    - Calflora https://www.calflora.org/search.html
+    - Jepson eFlora https://ucjeps.berkeley.edu/eflora/
+      
+- **California herp list:** "ESTABLISHED EXTANT AMPHIBIANS AND REPTILES OF CALIFORNIA (206 SPECIES)" from the Center for North American Herpetology (CNAH): https://cnah.org/state.aspx?state=California (would be nice to find this in tabular format and confirm whether the common names are standardized/authoritative)
+  
+- **Mammal nomenclature:** for standardized names of mammals, should use the Mammal Diversity Database, published by the American Society of Mammalogists: https://www.mammaldiversity.org/
+
+
