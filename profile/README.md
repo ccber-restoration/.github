@@ -9,7 +9,14 @@ If you are new to GitHub and need to connect RStudio and GitHub, follow steps 1,
 
 Then, follow step 16 (specifically 16.2.2) from this tutorial to connect a specific existing repository to RStudio: https://happygitwithr.com/existing-github-first 
 
-**Repository template**: Please use the template repository when creating new repositories: https://github.com/ccber-restoration/repo-template. See instructions here: https://ucsb-library-research-data-services.github.io/reproducible-lab/github_template.html
+**Repository templates**: 
+
+- When creating new repositories for relatively straightforward/discrete research projects, please use the "repo-template" template repository: https://github.com/ccber-restoration/repo-template.
+
+- See instructions here on basic templates: https://ucsb-library-research-data-services.github.io/reproducible-lab/github_template.html
+  
+- For setting up new repositories with continually-updated data, consider using the https://github.com/ccber-restoration/livedat-github-actions template (see https://www.updatingdata.org/) 
+
 
 ## Spatial data 
 Spatial data are generally also on ArcGIS Online: 
