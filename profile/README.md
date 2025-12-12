@@ -53,8 +53,12 @@ Descriptions of data sets should also be archived on eScholarship: https://escho
   - Link to excel files of daily rainfall for specific stations: https://www.countyofsb.org/2328/Daily-Rainfall-Data-XLS  
 
 ## Hydrology/water data
--  We have YSI readings (collected weekly via ArcGIS Survey123) on ArcGIS Online.
--  We have water level data (collected at 15 minute intervals) that is stored on Box. It requires some preprocessing.
+-  **Manual YSI readings** collected weekly via ArcGIS Survey123 are on ArcGIS Online.
+-  **Water levels** from pressure transducers (Solinst leveloggers) at multiple locations within the slough and tributaries at 15 min intervals. Raw data files are stored on Box, as are data for each site compiled by water year.
+    -  eScholarship data description (2018-2023): https://escholarship.org/uc/item/8186r0jp
+    -  Dryad repository (2018-2023): https://datadryad.org/dataset/doi:10.25349/D9RP7X
+    -  Zenodo repository (2018-2022): https://zenodo.org/records/8156402   
+-  We have water level data (collected at 15 minute intervals at) that is stored on Box. It requires some preprocessing.
 -  COPR created a Devereux Slough Water Quality Explorer shiny app, which allows both custom visualizations and data downloads for data manually collected by COPR interns at four sites between the slough mouth and Venoco bridge. App is here: https://019a366b-24b1-1b2b-5d87-a4dcf12a2d5f.share.connect.posit.cloud/ And GitHub repository is here: https://github.com/michellemoreno18/devereux-water-data/tree/main
 
 ## Campus Lagoon Plant List
