@@ -44,6 +44,7 @@ Descriptions of data sets should also be archived on eScholarship: https://escho
 
 ## Weather data
 
+- Coal Oil Point Reserve has had a NOAA weather station since 2008 (station id 1529, see https://www.ncei.noaa.gov/access/crn/station.htm?stationId=1529) 
 - Santa Barbara Airport (SBA) automated weather station data can be accessed via:
   - this website: https://mesonet.agron.iastate.edu/request/download.phtml?network=CA_ASOS
   - the riem R package: https://docs.ropensci.org/riem/
