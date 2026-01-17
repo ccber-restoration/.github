@@ -75,7 +75,7 @@ Try to use standardized species names (and/or codes) in Cheadle Center data sets
       
 - **California herp list:** "ESTABLISHED EXTANT AMPHIBIANS AND REPTILES OF CALIFORNIA (206 SPECIES)" from the Center for North American Herpetology (CNAH): https://cnah.org/state.aspx?state=California (would be nice to find this in tabular format and confirm whether the common names are standardized/authoritative)
   
-- **Mammals:** for standardized names of mammals, should use the Mammal Diversity Database, published by the American Society of Mammalogists: https://www.mammaldiversity.org/
+- **Mammals:** for standardized names of mammals, should use the Mammal Diversity Database (MDD), published by the American Society of Mammalogists: https://www.mammaldiversity.org/
 - **Birds:** use one of the following (should only have minor differences):
   - AOS checklist of North American birds: https://checklist.americanornithology.org/
   - eBird/Clements checklist: https://www.birds.cornell.edu/clementschecklist/
