@@ -26,7 +26,10 @@ Spatial data are generally also on ArcGIS Online:
   - See documentation for tools to integrate ArcGIS data into R workflows: https://developers.arcgis.com/r-bridge/
   - TODO: would be good to implement best practices for the CCBER ArcGIS Online group, following the example of the Dangermond Restoration Group (https://ucsb.maps.arcgis.com/home/group.html?id=901ab359c49249de8ceffaa6be093057#overview)
 
-## Box
+## eScholarship
+Descriptions of data sets should also be archived on eScholarship: https://escholarship.org/uc/ccber
+
+## Box integration [not currently using]
 
 - For accessing continually-updated data stored on Box, consider using the boxr package: https://r-box.github.io/boxr/
 
@@ -36,10 +39,6 @@ Spatial data are generally also on ArcGIS Online:
     -  Make sure to set the Redirect URI to http://localhost:1410/
 -  Files and directories can be identified using file_id and dir_id, respectively, rather than filepaths.
 -  Use variants of box_read() to load files on Box (e.g. csv or xlsx files) into memory: https://r-box.github.io/boxr/reference/box_read.html    
-
-## eScholarship
-Descriptions of data sets should also be archived on eScholarship: https://escholarship.org/uc/ccber
-
 # Data sets potentially used for many projects
 
 ## Weather data
