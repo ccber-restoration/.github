@@ -4,8 +4,7 @@ Repositories for research using data from the UCSB Cheadle Center's Ecological R
 ## Reproducible & Collaborative Research: 
 This GitHub organization is intended to facilitate reproducible and collaborative research, following the principles of this great resource: https://ucsb-library-research-data-services.github.io/reproducible-lab/
 
-## Resources for skills-learning
-- see wiki: https://github.com/ccber-restoration/.github/wiki/Useful-resources
+## Wiki with resources for skills-learning: https://github.com/ccber-restoration/.github/wiki/Useful-resources
 
 ## Setup instructions: 
 If you are new to GitHub and need to connect RStudio and GitHub, follow steps 1, 2, and 4-7 in these excellent instructions from the Bren School Master of Environmental Data Science (MEDS) program: https://ucsb-meds.github.io/MEDS-installation-guide/#install
