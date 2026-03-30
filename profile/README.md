@@ -68,7 +68,9 @@ Descriptions of data sets should also be archived on eScholarship: https://escho
 -  See https://docs.google.com/spreadsheets/d/1Ohz8c5m1lBqxH9XWiNraP3bbalaCag7DjCJmezXetsI/edit?gid=604560383#gid=604560383
 
 ## Species nomenclature
-Try to use standardized species names (and/or codes) in Cheadle Center data sets. Some sources of authoritative/up-to-date species names:
+Try to use standardized species names (and/or codes) in Cheadle Center data sets. 
+
+Some sources of authoritative/up-to-date species names:
 
 -  **Plants**:  
     - Calflora https://www.calflora.org/search.html
@@ -83,4 +85,9 @@ Try to use standardized species names (and/or codes) in Cheadle Center data sets
   - eBird/Clements checklist: https://www.birds.cornell.edu/clementschecklist/
   - AviList https://www.avilist.org/checklist/v2025/
 
+Some tools for standardizing taxonomic names (not a comprehensive list):
 
+-  **rgbif**: https://www.gbif.org/tool/81747/rgbif
+-  **taxize**: https://github.com/ropensci/taxize
+-  **worrms**: for marine species
+-  **plantR**: for plants
