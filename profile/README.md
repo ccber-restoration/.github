@@ -89,5 +89,6 @@ Some tools for standardizing taxonomic names (not a comprehensive list):
 
 -  **rgbif**: https://www.gbif.org/tool/81747/rgbif
 -  **taxize**: https://github.com/ropensci/taxize
+-  **taxadb**: https://github.com/ropensci/taxadb
 -  **worrms**: for marine species
 -  **plantR**: for plants
