@@ -32,18 +32,6 @@ Spatial data are generally also on ArcGIS Online:
 ## eScholarship
 Descriptions of data sets should also be archived on eScholarship: https://escholarship.org/uc/ccber
 
-## Box integration [not currently using]
-
-- For accessing continually-updated data stored on Box, consider using the boxr package: https://r-box.github.io/boxr/
-
-- To access files on Box, first follow these instructions to set up a "Box Interactive Map":
-    -  https://r-box.github.io/boxr/articles/boxr-app-interactive.html#create 
-    -  https://developer.box.com/guides/authentication/oauth2/oauth2-setup/
-    -  Make sure to set the Redirect URI to http://localhost:1410/
--  Files and directories can be identified using file_id and dir_id, respectively, rather than filepaths.
--  Use variants of box_read() to load files on Box (e.g. csv or xlsx files) into memory: https://r-box.github.io/boxr/reference/box_read.html    
-# Data sets potentially used for many projects
-
 ## Weather data
 
 - Coal Oil Point Reserve has had a NOAA weather station since 2008 (station id 1529, see https://www.ncei.noaa.gov/access/crn/station.htm?stationId=1529) 
