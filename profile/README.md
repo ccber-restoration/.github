@@ -65,7 +65,8 @@ Some sources of authoritative/up-to-date species names:
     - Calflora https://www.calflora.org/search.html
     - Jepson eFlora https://ucjeps.berkeley.edu/eflora/
       - see https://ucjeps.berkeley.edu/cgi-bin/get_JM_name_data
-    -  For nationally-standardized species names (& codes), consider using USDA PLANTS list: https://plants.sc.egov.usda.gov/ 
+    -  For nationally-standardized species names (& codes), consider using USDA PLANTS list: https://plants.sc.egov.usda.gov/
+    -  For CA special status species, see https://wildlife.ca.gov/Conservation/Plants/Special-Status
       
 - **California herp list:** "ESTABLISHED EXTANT AMPHIBIANS AND REPTILES OF CALIFORNIA (206 SPECIES)" from the Center for North American Herpetology (CNAH): https://cnah.org/state.aspx?state=California (would be nice to find this in tabular format and confirm whether the common names are standardized/authoritative)
   
