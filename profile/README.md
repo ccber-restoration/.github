@@ -4,13 +4,13 @@ Repositories for research using data from the UCSB Cheadle Center's Ecological R
 ## Reproducible & Collaborative Research: 
 This GitHub organization is intended to facilitate reproducible and collaborative research, following the principles of this great resource: https://ucsb-library-research-data-services.github.io/reproducible-lab/
 
-## Wiki with resources for skills-learning: 
-https://github.com/ccber-restoration/.github/wiki/Useful-resources
-
 ## Setup instructions: 
 If you are new to GitHub and need to connect RStudio and GitHub, follow steps 1, 2, and 4-7 in these excellent instructions from the Bren School Master of Environmental Data Science (MEDS) program: https://ucsb-meds.github.io/MEDS-installation-guide/#install
 
 Then, follow step 16 (specifically 16.2.2) from this tutorial to connect a specific existing repository to RStudio: https://happygitwithr.com/existing-github-first 
+
+## Wiki with more documentation, plus resources for skills-learning: 
+https://github.com/ccber-restoration/.github/wiki/Useful-resources
 
 **Repository templates**: 
 
@@ -56,30 +56,3 @@ Descriptions of data sets should also be archived on eScholarship: https://escho
 -  Last updated in 2018, use as starter list for overall plant list for all areas managed by the Cheadle Center.
 -  See https://docs.google.com/spreadsheets/d/1Ohz8c5m1lBqxH9XWiNraP3bbalaCag7DjCJmezXetsI/edit?gid=604560383#gid=604560383
 
-## Species nomenclature
-Try to use standardized species names (and/or codes) in Cheadle Center data sets. 
-
-Some sources of authoritative/up-to-date species names:
-
--  **Plants**:  
-    - Calflora https://www.calflora.org/search.html
-    - Jepson eFlora https://ucjeps.berkeley.edu/eflora/
-      - see https://ucjeps.berkeley.edu/cgi-bin/get_JM_name_data
-    -  For nationally-standardized species names (& codes), consider using USDA PLANTS list: https://plants.sc.egov.usda.gov/
-    -  For CA special status species, see https://wildlife.ca.gov/Conservation/Plants/Special-Status
-      
-- **California herp list:** "ESTABLISHED EXTANT AMPHIBIANS AND REPTILES OF CALIFORNIA (206 SPECIES)" from the Center for North American Herpetology (CNAH): https://cnah.org/state.aspx?state=California (would be nice to find this in tabular format and confirm whether the common names are standardized/authoritative)
-  
-- **Mammals:** for standardized names of mammals, should use the Mammal Diversity Database (MDD), published by the American Society of Mammalogists: https://www.mammaldiversity.org/
-- **Birds:** use one of the following (should only have minor differences):
-  - AOS checklist of North American birds: https://checklist.americanornithology.org/
-  - eBird/Clements checklist: https://www.birds.cornell.edu/clementschecklist/
-  - AviList https://www.avilist.org/checklist/v2025/
-
-Some tools for standardizing taxonomic names (not a comprehensive list):
-
--  **rgbif**: https://www.gbif.org/tool/81747/rgbif
--  **taxize**: https://github.com/ropensci/taxize
--  **taxadb**: https://github.com/ropensci/taxadb
--  **worrms**: for marine species
--  **plantR**: for plants
