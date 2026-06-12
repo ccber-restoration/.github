@@ -27,7 +27,6 @@ Spatial data are generally also on ArcGIS Online:
   - See information from the UCSB Library about accessing ArcGIS Online: https://www.library.ucsb.edu/dreamlab/spatial/arcgis-online
   - CCBER's ArcGIS Online https://ucsb.maps.arcgis.com/home/group.html?id=5196673ce5ea4d68882435ddc2f8ae3f#overview
   - See documentation for tools to integrate ArcGIS data into R workflows: https://developers.arcgis.com/r-bridge/
-  - TODO: would be good to implement best practices for the CCBER ArcGIS Online group, following the example of the Dangermond Restoration Group (https://ucsb.maps.arcgis.com/home/group.html?id=901ab359c49249de8ceffaa6be093057#overview)
 
 ## eScholarship
 Descriptions of data sets should also be archived on eScholarship: https://escholarship.org/uc/ccber
